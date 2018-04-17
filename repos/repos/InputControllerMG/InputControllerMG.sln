@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputControllerMG", "InputControllerMG\InputControllerMG.csproj", "{CA7E4E3F-8230-4074-B5B2-FFEE7E4026EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacManGameComponent", "..\..\..\Desktop\ClassExamplesRepo\jeff\Monogame\3.5\PacManGameComponent\PacManGameComponent.csproj", "{4C55A58C-E80E-4151-88E1-28AF532FFBF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA7E4E3F-8230-4074-B5B2-FFEE7E4026EB}.Debug|x86.ActiveCfg = Debug|x86
+		{CA7E4E3F-8230-4074-B5B2-FFEE7E4026EB}.Debug|x86.Build.0 = Debug|x86
+		{CA7E4E3F-8230-4074-B5B2-FFEE7E4026EB}.Release|x86.ActiveCfg = Release|x86
+		{CA7E4E3F-8230-4074-B5B2-FFEE7E4026EB}.Release|x86.Build.0 = Release|x86
+		{4C55A58C-E80E-4151-88E1-28AF532FFBF9}.Debug|x86.ActiveCfg = Debug|x86
+		{4C55A58C-E80E-4151-88E1-28AF532FFBF9}.Debug|x86.Build.0 = Debug|x86
+		{4C55A58C-E80E-4151-88E1-28AF532FFBF9}.Release|x86.ActiveCfg = Release|x86
+		{4C55A58C-E80E-4151-88E1-28AF532FFBF9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99EC9530-5B3C-42FC-84A4-988EEFE6D1C5}
+	EndGlobalSection
+EndGlobal

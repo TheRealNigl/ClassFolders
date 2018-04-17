@@ -1,0 +1,11 @@
+C:\Users\alexander.nigl\source\repos\ToDoAPI\ToDoAPI\bin\Debug\netcoreapp2.0\ToDoAPI.deps.json
+C:\Users\alexander.nigl\source\repos\ToDoAPI\ToDoAPI\bin\Debug\netcoreapp2.0\ToDoAPI.runtimeconfig.json
+C:\Users\alexander.nigl\source\repos\ToDoAPI\ToDoAPI\bin\Debug\netcoreapp2.0\ToDoAPI.runtimeconfig.dev.json
+C:\Users\alexander.nigl\source\repos\ToDoAPI\ToDoAPI\bin\Debug\netcoreapp2.0\ToDoAPI.dll
+C:\Users\alexander.nigl\source\repos\ToDoAPI\ToDoAPI\bin\Debug\netcoreapp2.0\ToDoAPI.pdb
+C:\Users\alexander.nigl\source\repos\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.0\ToDoAPI.csprojResolveAssemblyReference.cache
+C:\Users\alexander.nigl\source\repos\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.0\ToDoAPI.csproj.CoreCompileInputs.cache
+C:\Users\alexander.nigl\source\repos\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.0\ToDoAPI.AssemblyInfoInputs.cache
+C:\Users\alexander.nigl\source\repos\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.0\ToDoAPI.AssemblyInfo.cs
+C:\Users\alexander.nigl\source\repos\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.0\ToDoAPI.dll
+C:\Users\alexander.nigl\source\repos\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.0\ToDoAPI.pdb

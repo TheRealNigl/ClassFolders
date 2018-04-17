@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "a0a997715cc91687bc46e5e6f469cfd0d3d62f0a"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "MarkovModel/1.0.0": {
+        "dependencies": {
+          "Accord": "3.8.0",
+          "encog-dotnet-core": "3.4.0"
+        },
+        "runtime": {
+          "MarkovModel.dll": {}
+        }
+      },
+      "Accord/3.8.0": {
+        "runtime": {
+          "lib/netstandard2.0/Accord.dll": {}
+        }
+      },
+      "encog-dotnet-core/3.4.0": {
+        "runtime": {
+          "lib/encog-core-cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarkovModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accord/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7kJrB570dO5ELim+2KWQNozuvWO9/BuZfZspdFy36fcWPNF2CEccblLuILeUlI8QJYd2DlBy0bfK8BlCx/uayA==",
+      "path": "accord/3.8.0",
+      "hashPath": "accord.3.8.0.nupkg.sha512"
+    },
+    "encog-dotnet-core/3.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WUacWTVw9zGQlmYVAKdULn5pAG2XcnfhVaYNURLNBZtsRgoXRmXORH0HJigaXaT+x61cp/6XoOcajd5X++wLtg==",
+      "path": "encog-dotnet-core/3.4.0",
+      "hashPath": "encog-dotnet-core.3.4.0.nupkg.sha512"
+    }
+  }
+}

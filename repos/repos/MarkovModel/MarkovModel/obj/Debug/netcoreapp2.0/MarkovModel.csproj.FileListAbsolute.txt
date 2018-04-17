@@ -1,0 +1,9 @@
+c:\users\alexander.nigl\source\repos\MarkovModel\MarkovModel\bin\Debug\netcoreapp2.0\MarkovModel.deps.json
+c:\users\alexander.nigl\source\repos\MarkovModel\MarkovModel\bin\Debug\netcoreapp2.0\MarkovModel.runtimeconfig.json
+c:\users\alexander.nigl\source\repos\MarkovModel\MarkovModel\bin\Debug\netcoreapp2.0\MarkovModel.runtimeconfig.dev.json
+c:\users\alexander.nigl\source\repos\MarkovModel\MarkovModel\bin\Debug\netcoreapp2.0\MarkovModel.dll
+c:\users\alexander.nigl\source\repos\MarkovModel\MarkovModel\obj\Debug\netcoreapp2.0\MarkovModel.csprojResolveAssemblyReference.cache
+c:\users\alexander.nigl\source\repos\MarkovModel\MarkovModel\obj\Debug\netcoreapp2.0\MarkovModel.csproj.CoreCompileInputs.cache
+c:\users\alexander.nigl\source\repos\MarkovModel\MarkovModel\obj\Debug\netcoreapp2.0\MarkovModel.AssemblyInfoInputs.cache
+c:\users\alexander.nigl\source\repos\MarkovModel\MarkovModel\obj\Debug\netcoreapp2.0\MarkovModel.AssemblyInfo.cs
+c:\users\alexander.nigl\source\repos\MarkovModel\MarkovModel\bin\Debug\netcoreapp2.0\Accord.dll.config

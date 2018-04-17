@@ -1,0 +1,11 @@
+c:\users\alexander.nigl\source\repos\ClassExample\ClassExample\bin\Debug\netcoreapp2.0\ClassExample.deps.json
+c:\users\alexander.nigl\source\repos\ClassExample\ClassExample\bin\Debug\netcoreapp2.0\ClassExample.runtimeconfig.json
+c:\users\alexander.nigl\source\repos\ClassExample\ClassExample\bin\Debug\netcoreapp2.0\ClassExample.runtimeconfig.dev.json
+c:\users\alexander.nigl\source\repos\ClassExample\ClassExample\bin\Debug\netcoreapp2.0\ClassExample.dll
+c:\users\alexander.nigl\source\repos\ClassExample\ClassExample\bin\Debug\netcoreapp2.0\ClassExample.pdb
+c:\users\alexander.nigl\source\repos\ClassExample\ClassExample\obj\Debug\netcoreapp2.0\ClassExample.csprojResolveAssemblyReference.cache
+c:\users\alexander.nigl\source\repos\ClassExample\ClassExample\obj\Debug\netcoreapp2.0\ClassExample.csproj.CoreCompileInputs.cache
+c:\users\alexander.nigl\source\repos\ClassExample\ClassExample\obj\Debug\netcoreapp2.0\ClassExample.AssemblyInfoInputs.cache
+c:\users\alexander.nigl\source\repos\ClassExample\ClassExample\obj\Debug\netcoreapp2.0\ClassExample.AssemblyInfo.cs
+c:\users\alexander.nigl\source\repos\ClassExample\ClassExample\obj\Debug\netcoreapp2.0\ClassExample.dll
+c:\users\alexander.nigl\source\repos\ClassExample\ClassExample\obj\Debug\netcoreapp2.0\ClassExample.pdb

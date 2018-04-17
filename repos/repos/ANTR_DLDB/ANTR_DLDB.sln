@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ANTR_DLDB", "ANTR_DLDB\ANTR_DLDB.sqlproj", "{697F6D09-E375-4A11-8F47-34DAFB09A6E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697F6D09-E375-4A11-8F47-34DAFB09A6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697F6D09-E375-4A11-8F47-34DAFB09A6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697F6D09-E375-4A11-8F47-34DAFB09A6E0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{697F6D09-E375-4A11-8F47-34DAFB09A6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697F6D09-E375-4A11-8F47-34DAFB09A6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697F6D09-E375-4A11-8F47-34DAFB09A6E0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89FC1411-23A0-4AF3-90EC-533D5373A01B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[DDTable]
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [me] INT NOT NULL
+)

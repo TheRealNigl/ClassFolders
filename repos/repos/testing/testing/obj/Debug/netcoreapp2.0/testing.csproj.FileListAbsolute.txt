@@ -1,0 +1,11 @@
+c:\users\alexander.nigl\source\repos\testing\testing\bin\Debug\netcoreapp2.0\testing.deps.json
+c:\users\alexander.nigl\source\repos\testing\testing\bin\Debug\netcoreapp2.0\testing.runtimeconfig.json
+c:\users\alexander.nigl\source\repos\testing\testing\bin\Debug\netcoreapp2.0\testing.runtimeconfig.dev.json
+c:\users\alexander.nigl\source\repos\testing\testing\bin\Debug\netcoreapp2.0\testing.dll
+c:\users\alexander.nigl\source\repos\testing\testing\obj\Debug\netcoreapp2.0\testing.csprojResolveAssemblyReference.cache
+c:\users\alexander.nigl\source\repos\testing\testing\obj\Debug\netcoreapp2.0\testing.csproj.CoreCompileInputs.cache
+c:\users\alexander.nigl\source\repos\testing\testing\obj\Debug\netcoreapp2.0\testing.AssemblyInfoInputs.cache
+c:\users\alexander.nigl\source\repos\testing\testing\obj\Debug\netcoreapp2.0\testing.AssemblyInfo.cs
+c:\users\alexander.nigl\source\repos\testing\testing\bin\Debug\netcoreapp2.0\testing.pdb
+c:\users\alexander.nigl\source\repos\testing\testing\obj\Debug\netcoreapp2.0\testing.dll
+c:\users\alexander.nigl\source\repos\testing\testing\obj\Debug\netcoreapp2.0\testing.pdb

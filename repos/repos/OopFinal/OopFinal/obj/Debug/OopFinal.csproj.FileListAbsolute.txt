@@ -1,0 +1,6 @@
+C:\Users\alexander.nigl\source\repos\OopFinal\OopFinal\obj\Debug\OopFinal.csproj.CoreCompileInputs.cache
+C:\Users\alexander.nigl\source\repos\OopFinal\OopFinal\bin\Debug\OopFinal.exe.config
+C:\Users\alexander.nigl\source\repos\OopFinal\OopFinal\bin\Debug\OopFinal.exe
+C:\Users\alexander.nigl\source\repos\OopFinal\OopFinal\bin\Debug\OopFinal.pdb
+C:\Users\alexander.nigl\source\repos\OopFinal\OopFinal\obj\Debug\OopFinal.exe
+C:\Users\alexander.nigl\source\repos\OopFinal\OopFinal\obj\Debug\OopFinal.pdb
